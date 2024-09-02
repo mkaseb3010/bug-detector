@@ -2,8 +2,7 @@ A bug detection tool created using a python script. This will require you to hav
 content to scan for bugs with a given support and confidence threshold levels for the script.
 
 **Required:**
-A .jar file in the same path as this script
-Preferably the latest version of python
+A .jar file in the same path as this script and preferably the latest version of python
 
 **Usage:**
 Use a terminal and navigate the path where the .py and .jar (or paste the path of the .jar file location)
